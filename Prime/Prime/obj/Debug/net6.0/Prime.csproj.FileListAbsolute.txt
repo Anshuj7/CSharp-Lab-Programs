@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\Prime.exe
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\Prime.deps.json
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\Prime.dll
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\ref\Prime.dll
+E:\College_CSharp_Programs\Prime\Prime\bin\Debug\net6.0\Prime.pdb
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.dll
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\ref\Prime.dll
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.pdb
+E:\College_CSharp_Programs\Prime\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache
