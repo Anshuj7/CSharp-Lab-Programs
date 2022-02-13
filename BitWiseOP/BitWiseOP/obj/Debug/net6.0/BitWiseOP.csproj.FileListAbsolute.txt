@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\BitWiseOP.exe
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\BitWiseOP.deps.json
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\BitWiseOP.runtimeconfig.json
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\BitWiseOP.dll
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\ref\BitWiseOP.dll
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\bin\Debug\net6.0\BitWiseOP.pdb
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.AssemblyInfo.cs
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.dll
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\ref\BitWiseOP.dll
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.pdb
+E:\College_CSharp_Programs\BitWiseOP\BitWiseOP\obj\Debug\net6.0\BitWiseOP.genruntimeconfig.cache
