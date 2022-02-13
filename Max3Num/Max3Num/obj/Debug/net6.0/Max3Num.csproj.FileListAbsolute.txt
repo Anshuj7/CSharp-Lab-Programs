@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\Max3Num.exe
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\Max3Num.deps.json
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\Max3Num.runtimeconfig.json
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\Max3Num.dll
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\ref\Max3Num.dll
+E:\College_CSharp_Programs\Max3Num\Max3Num\bin\Debug\net6.0\Max3Num.pdb
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.AssemblyInfo.cs
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.dll
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\ref\Max3Num.dll
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.pdb
+E:\College_CSharp_Programs\Max3Num\Max3Num\obj\Debug\net6.0\Max3Num.genruntimeconfig.cache
