@@ -1,0 +1,11 @@
+E:\College_CSharp_Programs\DBConn\DBConn\bin\Debug\DBConn.exe.config
+E:\College_CSharp_Programs\DBConn\DBConn\bin\Debug\DBConn.exe
+E:\College_CSharp_Programs\DBConn\DBConn\bin\Debug\DBConn.pdb
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.csproj.SuggestedBindingRedirects.cache
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.Form1.resources
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.Properties.Resources.resources
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.csproj.GenerateResource.cache
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.exe
+E:\College_CSharp_Programs\DBConn\DBConn\obj\Debug\DBConn.pdb
