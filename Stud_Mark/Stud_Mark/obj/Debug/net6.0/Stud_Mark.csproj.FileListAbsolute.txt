@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\Stud_Mark.exe
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\Stud_Mark.deps.json
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\Stud_Mark.runtimeconfig.json
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\Stud_Mark.dll
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\ref\Stud_Mark.dll
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\bin\Debug\net6.0\Stud_Mark.pdb
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.AssemblyInfo.cs
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.dll
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\ref\Stud_Mark.dll
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.pdb
+E:\College_CSharp_Programs\Stud_Mark\Stud_Mark\obj\Debug\net6.0\Stud_Mark.genruntimeconfig.cache
