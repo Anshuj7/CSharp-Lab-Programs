@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\fibo.exe
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\fibo.deps.json
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\fibo.runtimeconfig.json
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\fibo.dll
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\ref\fibo.dll
+E:\College_CSharp_Programs\fibo\fibo\bin\Debug\net6.0\fibo.pdb
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.AssemblyInfo.cs
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.dll
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\ref\fibo.dll
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.pdb
+E:\College_CSharp_Programs\fibo\fibo\obj\Debug\net6.0\fibo.genruntimeconfig.cache

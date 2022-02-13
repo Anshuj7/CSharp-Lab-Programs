@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\MulTab.exe
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\MulTab.deps.json
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\MulTab.runtimeconfig.json
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\MulTab.dll
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\ref\MulTab.dll
+E:\College_CSharp_Programs\MulTab\MulTab\bin\Debug\net6.0\MulTab.pdb
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.AssemblyInfo.cs
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.dll
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\ref\MulTab.dll
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.pdb
+E:\College_CSharp_Programs\MulTab\MulTab\obj\Debug\net6.0\MulTab.genruntimeconfig.cache
