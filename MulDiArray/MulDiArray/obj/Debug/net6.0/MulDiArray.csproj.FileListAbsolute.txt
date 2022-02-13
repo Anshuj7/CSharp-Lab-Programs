@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\MulDiArray.exe
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\MulDiArray.deps.json
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\MulDiArray.runtimeconfig.json
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\MulDiArray.dll
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\ref\MulDiArray.dll
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\bin\Debug\net6.0\MulDiArray.pdb
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.AssemblyInfo.cs
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.dll
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\ref\MulDiArray.dll
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.pdb
+E:\College_CSharp_Programs\MulDiArray\MulDiArray\obj\Debug\net6.0\MulDiArray.genruntimeconfig.cache
