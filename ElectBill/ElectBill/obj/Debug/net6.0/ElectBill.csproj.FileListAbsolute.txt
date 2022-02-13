@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ElectBill.exe
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ElectBill.deps.json
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ElectBill.runtimeconfig.json
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ElectBill.dll
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ref\ElectBill.dll
+E:\College_CSharp_Programs\ElectBill\ElectBill\bin\Debug\net6.0\ElectBill.pdb
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.AssemblyInfo.cs
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.dll
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ref\ElectBill.dll
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.pdb
+E:\College_CSharp_Programs\ElectBill\ElectBill\obj\Debug\net6.0\ElectBill.genruntimeconfig.cache
