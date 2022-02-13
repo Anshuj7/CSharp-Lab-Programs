@@ -1,0 +1,7 @@
+D:\New folder\DispGVC\DispGVC\bin\Debug\DispGVC.exe
+D:\New folder\DispGVC\DispGVC\bin\Debug\DispGVC.pdb
+D:\New folder\DispGVC\DispGVC\obj\x86\Debug\DispGVC.Form1.resources
+D:\New folder\DispGVC\DispGVC\obj\x86\Debug\DispGVC.Properties.Resources.resources
+D:\New folder\DispGVC\DispGVC\obj\x86\Debug\DispGVC.csproj.GenerateResource.Cache
+D:\New folder\DispGVC\DispGVC\obj\x86\Debug\DispGVC.exe
+D:\New folder\DispGVC\DispGVC\obj\x86\Debug\DispGVC.pdb
