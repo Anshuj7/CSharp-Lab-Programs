@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\NestedIF.exe
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\NestedIF.deps.json
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\NestedIF.runtimeconfig.json
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\NestedIF.dll
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\ref\NestedIF.dll
+E:\College_CSharp_Programs\NestedIF\NestedIF\bin\Debug\net6.0\NestedIF.pdb
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.AssemblyInfo.cs
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.dll
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\ref\NestedIF.dll
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.pdb
+E:\College_CSharp_Programs\NestedIF\NestedIF\obj\Debug\net6.0\NestedIF.genruntimeconfig.cache
