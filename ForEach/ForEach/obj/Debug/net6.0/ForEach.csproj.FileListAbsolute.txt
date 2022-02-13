@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ForEach.exe
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ForEach.deps.json
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ForEach.dll
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ref\ForEach.dll
+E:\College_CSharp_Programs\ForEach\ForEach\bin\Debug\net6.0\ForEach.pdb
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.dll
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ref\ForEach.dll
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.pdb
+E:\College_CSharp_Programs\ForEach\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
