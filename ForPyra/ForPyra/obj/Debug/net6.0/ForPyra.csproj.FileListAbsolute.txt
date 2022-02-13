@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ForPyra.exe
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ForPyra.deps.json
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ForPyra.runtimeconfig.json
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ForPyra.dll
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ref\ForPyra.dll
+E:\College_CSharp_Programs\ForPyra\ForPyra\bin\Debug\net6.0\ForPyra.pdb
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.AssemblyInfo.cs
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.dll
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ref\ForPyra.dll
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.pdb
+E:\College_CSharp_Programs\ForPyra\ForPyra\obj\Debug\net6.0\ForPyra.genruntimeconfig.cache
