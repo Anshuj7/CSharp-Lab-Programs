@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\1DARR.exe
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\1DARR.deps.json
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\1DARR.runtimeconfig.json
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\1DARR.dll
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\ref\1DARR.dll
+E:\College_CSharp_Programs\1DARR\1DARR\bin\Debug\net6.0\1DARR.pdb
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.AssemblyInfo.cs
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.dll
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\ref\1DARR.dll
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.pdb
+E:\College_CSharp_Programs\1DARR\1DARR\obj\Debug\net6.0\1DARR.genruntimeconfig.cache
