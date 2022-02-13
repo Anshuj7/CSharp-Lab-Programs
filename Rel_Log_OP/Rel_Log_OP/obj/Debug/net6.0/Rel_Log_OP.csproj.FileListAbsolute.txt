@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\Rel_Log_OP.exe
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\Rel_Log_OP.deps.json
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\Rel_Log_OP.runtimeconfig.json
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\Rel_Log_OP.dll
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\ref\Rel_Log_OP.dll
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\bin\Debug\net6.0\Rel_Log_OP.pdb
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.AssemblyInfo.cs
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.dll
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\ref\Rel_Log_OP.dll
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.pdb
+E:\College_CSharp_Programs\Rel_Log_OP\Rel_Log_OP\obj\Debug\net6.0\Rel_Log_OP.genruntimeconfig.cache
