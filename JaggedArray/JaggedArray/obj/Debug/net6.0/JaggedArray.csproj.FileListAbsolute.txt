@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.exe
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.deps.json
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.runtimeconfig.json
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.dll
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\ref\JaggedArray.dll
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.pdb
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfo.cs
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.dll
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\ref\JaggedArray.dll
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.pdb
+E:\College_CSharp_Programs\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.genruntimeconfig.cache
