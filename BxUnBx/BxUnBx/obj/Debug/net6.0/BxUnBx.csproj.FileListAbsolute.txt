@@ -1,0 +1,15 @@
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\BxUnBx.exe
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\BxUnBx.deps.json
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\BxUnBx.runtimeconfig.json
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\BxUnBx.dll
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\ref\BxUnBx.dll
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\bin\Debug\net6.0\BxUnBx.pdb
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.csproj.AssemblyReference.cache
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.GeneratedMSBuildEditorConfig.editorconfig
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.AssemblyInfoInputs.cache
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.AssemblyInfo.cs
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.csproj.CoreCompileInputs.cache
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.dll
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\ref\BxUnBx.dll
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.pdb
+E:\College_CSharp_Programs\BxUnBx\BxUnBx\obj\Debug\net6.0\BxUnBx.genruntimeconfig.cache
